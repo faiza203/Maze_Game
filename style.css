@@ -1,3 +1,9 @@
-body{
-    margin: 0;
+body {
+  margin: 0;
+  background-color: #18181d;
+}
+
+canvas {
+  height: calc(100vh - 4px);
+  width: calc(100vw - 2px);
 }
